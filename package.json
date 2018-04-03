@@ -30,8 +30,7 @@
   },
   "devDependencies": {
     "ava": "^0.25.0",
-    "mm-test": "^1.0.0",
-    "mm-status": "^1.0.0",
+    "mm-test": "^2.0.0",
     "nyc": "^11.6.0"
   }
 }
