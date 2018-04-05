@@ -26,11 +26,11 @@
   "dependencies": {
     "form-data": "^2.3.2",
     "got": "^8.3.0",
-    "mm-errors": "^1.0.0"
+    "mm-errors": "^2.0.0"
   },
   "devDependencies": {
     "ava": "^0.25.0",
-    "mm-test": "^2.0.0",
+    "mm-test": "^3.0.0",
     "nyc": "^11.6.0"
   }
 }
