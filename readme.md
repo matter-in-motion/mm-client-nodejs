@@ -7,7 +7,7 @@ Node.js client for [matter in motion](https://github.com/matter-in-motion/mm) fr
 
 ## Installation
 
-`npm i mm-client`
+`npm i mm-client-nodejs`
 
 ## Usage
 

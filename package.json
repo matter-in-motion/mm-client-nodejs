@@ -1,5 +1,5 @@
 {
-  "name": "mm-client",
+  "name": "mm-client-nodejs",
   "version": "1.0.0",
   "description": "Matter in motion client nodejs library transport",
   "main": "index.js",
