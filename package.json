@@ -1,7 +1,7 @@
 {
   "name": "mm-client-nodejs",
   "version": "1.0.1",
-  "description": "Matter in motion client nodejs library transport",
+  "description": "Matter in motion nodejs client",
   "main": "index.js",
   "scripts": {
     "test": "nyc ava"
@@ -25,12 +25,12 @@
   "homepage": "https://github.com/matter-in-motion/mm-client-nodejs#readme",
   "dependencies": {
     "form-data": "^2.3.2",
-    "got": "^8.3.0",
+    "got": "^9.0.0",
     "mm-errors": "^2.0.0"
   },
   "devDependencies": {
     "ava": "^0.25.0",
     "mm-test": "^3.0.0",
-    "nyc": "^11.6.0"
+    "nyc": "^12.0.0"
   }
 }
