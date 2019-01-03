@@ -29,7 +29,7 @@ Creates a client function. Options:
 * tls — boolean, default `false`. Use TLS (https) connection or not.
 * api — string, default `/api`. API path
 * serializer — serializer to use. By default client uses JSON serializer except for sending files it uses FormData.
-* meat – request metadata, will be used in every request with empty meta
+* meta – request metadata, will be used in every request with empty meta
 
 ### mm(call, data, opts)
 
